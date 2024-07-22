@@ -1,1 +1,1 @@
-# DSA_codes
+# Data-structures-and-algorithm-(DSA)
